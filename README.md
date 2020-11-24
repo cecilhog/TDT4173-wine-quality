@@ -15,7 +15,7 @@ The code is structured so that preprocessing techniques (e.g., removal of featur
 ## How to run the code
 Run the code in e.g., a Python notebook or Google colab
 
-To run the different pieces of code type write
+To run the different code sections write
 ```bash
-!python main.py -q "[name]"
+!python main.py -q "[code section name]"
 ```
