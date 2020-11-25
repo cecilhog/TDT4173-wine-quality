@@ -1,5 +1,5 @@
 # TDT4173-wine-quality
-Project repository for predicting wine quality based on physicochemical attributes
+Project repository for predicting wine quality based on physicochemical attributes. The datasets are extracted from https://archive.ics.uci.edu/ml/datasets/wine. 
 
 ## Structure of the code
 The code builds 3 different models
